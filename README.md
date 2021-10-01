@@ -1,5 +1,5 @@
 # install_python2.7_pip
-bash script to install Pip on Python 2.7 in Linux, tested in .
+bash script to install Pip on Python 2.7 in Linux, tested in Kali Linux.
 Based on [Jonathan Rys](https://stackoverflow.com/users/6114445/jonathan-rys)'s answer on [How to install pip on Python 2.7 in 2021](https://stackoverflow.com/questions/68382662/how-to-install-pip-on-python-2-7-in-2021/68403027#68403027)
 
 # Usage
